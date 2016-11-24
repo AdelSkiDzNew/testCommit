@@ -3,6 +3,7 @@ package com.myapp.test.inter;
 public class Personne <T> {
   
 	private T t;
+	private T t2;
 	private T x;
 	private T y;
 	public Personne() {
