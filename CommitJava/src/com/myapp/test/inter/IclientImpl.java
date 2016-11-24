@@ -10,6 +10,7 @@ public class IclientImpl implements IClient {
 		System.out.println("changement02");
 		System.out.println("changement 01");
 		System.out.println("changement 05");
+		System.out.println("changement 04");
 	}
 
 	@Override
