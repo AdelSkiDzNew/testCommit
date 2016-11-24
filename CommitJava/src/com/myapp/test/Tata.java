@@ -4,5 +4,6 @@ public class Tata {
 
 	public static void main(String[] args) {
 		System.out.println("tata 01 ");
+		System.out.println("tata 02");
 	}
 }
