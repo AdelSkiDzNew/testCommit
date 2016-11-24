@@ -1,7 +1,8 @@
 package com.myapp.test.inter;
 
 public class Personne <T> {
-  
+     
+	private T t3;
 	private T t;
 	private T t2;
 	private T x;
