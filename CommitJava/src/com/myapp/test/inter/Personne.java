@@ -7,7 +7,7 @@ public class Personne <T> {
 	private T t2;
 	private T x;
 	private T y;
-	private T t5;
+	
 	public Personne() {
 		// TODO Auto-generated constructor stub
 	}
