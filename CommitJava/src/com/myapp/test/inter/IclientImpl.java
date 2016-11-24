@@ -11,6 +11,7 @@ public class IclientImpl implements IClient {
 		System.out.println("changement 01");
 		System.out.println("changement 05");
 		System.out.println("changement 04");
+		System.out.println("chanegement 06");
 	}
 
 	@Override
