@@ -12,7 +12,7 @@ public class IclientImpl implements IClient {
 
 	@Override
 	public void add2(String x) {
-		// TODO Auto-generated method stub
+		System.out.println(x+x);
 		
 	}
 
