@@ -10,10 +10,10 @@ public interface IClient {
 
 	List<Integer> getAll();
 
-	void add5(int x);
+	/*void add5(int x);
 
 	void add6(String x);
 
-	List<Integer> getAll5();
+	List<Integer> getAll5();*/
 
 }
