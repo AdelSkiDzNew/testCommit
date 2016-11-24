@@ -7,7 +7,7 @@ public class IclientImpl implements IClient {
 	@Override
 	public void add(int x) {
 		System.out.println(x);
-		
+		System.out.println("changement 01");
 	}
 
 	@Override
